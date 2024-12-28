@@ -116,6 +116,16 @@
         height: 48px;
         margin-left: 20px;
     }
+
+    /*página saiba masis*/
+
+    .espec{
+        width: 90%;
+        height: 80vh;
+        border: 1px solid #d3d3d3;
+        margin: 10px 5%;
+        padding: 10px;
+    }
     
     
     
